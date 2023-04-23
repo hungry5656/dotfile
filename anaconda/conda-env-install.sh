@@ -5,7 +5,7 @@
 # initialize env
 
 # activate env
-conda activate $2
+# conda activate $2
 
 # get package list
 pkg_list=`cat $1`
