@@ -1,6 +1,6 @@
 # The Config Repository of ALL
 ## Anaconda
 - Usage
-```shell
-sh conda-env-install.sh <pkg_list>
+```console
+foo@hungry5656:~$ sh conda-env-install.sh <pkg_list>
 ```
