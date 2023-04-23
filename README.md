@@ -2,5 +2,5 @@
 ## Anaconda
 - Usage
 ```console
-foo@hungry5656:~$ sh conda-env-install.sh <pkg_list>
+foo@hungry5656:~$ sh conda-env-install.sh <pkg_list> <env_name>
 ```

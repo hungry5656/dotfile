@@ -5,10 +5,11 @@
 # initialize env
 
 # activate env
+conda activate $2
 
 # get package list
 pkg_list=`cat $1`
-echo "Here is the package list:"
+echo "Here is the package $1 list:"
 counter=0
 for pkg_name in $pkg_list; do
     counter=$(($counter+1))
